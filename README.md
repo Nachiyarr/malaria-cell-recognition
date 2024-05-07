@@ -202,7 +202,7 @@ model.save('cell_model.h5')
 
 losses = pd.DataFrame(model.history.history)
 
-print("ALAGU NACHIYAR")
+print("alagu nachiyar")
 losses[['loss','val_loss']].plot()
 ```
 ```python
