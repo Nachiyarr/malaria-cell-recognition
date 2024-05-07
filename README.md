@@ -1,6 +1,6 @@
-![image](https://github.com/Nachiyarr/malaria-cell-recognition/assets/113497340/a94791da-8a6e-4ce4-a62e-149b13b98382)Exp.No : 04 
+### Exp.No : 04 
 
-Date : 29.04.2024 
+### Date : 29.04.2024 
 <br>
 
 # Deep Neural Network for Malaria Infected Cell Recognition
